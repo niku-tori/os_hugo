@@ -3,7 +3,4 @@ languageCode = "ja"
 title = "My New Hugo Site"
 theme = "ananke"
 canonifyurls = true
-
-
-[permalinks]
-post = "/"
+contentDir = "content/
