@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ie.u-ryukyu.ac.jp/~e205706/hugo"
 languageCode = "ja"
 title = "My New Hugo Site"
 theme = "ananke"
